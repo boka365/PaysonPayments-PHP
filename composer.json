@@ -1,6 +1,6 @@
 {
     "name": "boka365/paysonpayments",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "description": "Payson Recurring Payments and Payson Checkout API client for PHP",
     "license": "UNLICENSE",
     "authors": [
